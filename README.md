@@ -8,7 +8,7 @@
 This project is a **responsive and interactive restaurant menu website** built using **HTML, CSS, and JavaScript**. Users can easily navigate through different categories of food items and view their prices with a clean and intuitive design.
 
 ## Live Demo  
-Check out the live version: [Food Menu](https://r4xn-food-menu.netlify.app/)  
+Check out the live version: [Food Menu] 
 
 ## Features  
 - 🍽️ **Interactive Menu:** Browse through different food categories.  
